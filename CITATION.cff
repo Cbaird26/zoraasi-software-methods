@@ -6,7 +6,7 @@ authors:
   - family-names: Baird
     given-names: Christopher Michael
 version: "0.1.0"
-repository-code: "https://github.com/Cbaird26/Cbaird26-zoraasi-software-methods"
+repository-code: "https://github.com/Cbaird26/zoraasi-software-methods"
 license: "LicenseRef-ZoraASI-Noncommercial-Education-Research-1.0"
 abstract: >-
   A research software reference implementation of five text-first representational
